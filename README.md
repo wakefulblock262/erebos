@@ -18,7 +18,6 @@ Found any bugs? [Submit an issue](https://github.com/wakefulblock262/erebos/issu
 [![Workflow][badge-repo-workflow]][repo-actions]
 [![Downloads][badge-repo-downloads]][repo-releases]
 [![Version][badge-repo-latest]][repo-latest]
-[![Discord][badge-discord]][discord-invite]
 ![Stars][badge-repo-stars]
 
 </div>
