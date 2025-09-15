@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download Fishstrap are this GitHub repository and [fishstrap.app](https://www.fishstrap.app). Any other websites offering downloads or claiming to be us are not controlled by us (eg. fishstrap.org, fishstrap.com). We strongly recommend **not** downloading from any unofficial sources.
+> The only official places to download Erebos are this GitHub repository and [get-nyx.dev](https://get-nyx.com). Any other websites offering downloads or claiming to be us are not controlled by us. We strongly recommend **not** downloading from any unofficial sources.
 
 <p align="center">
     <img src="https://github.com/returnrqt/fishstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
@@ -10,9 +10,9 @@
 
 ![Fishstrap Showcase](https://www.fishstrap.app/img/Showcase.webp)
 
-Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
+Erebos is a Fishstrap/Bloxstrap fork aiming to enhance some of the features.
 
-Found any bugs? [Submit an issue](https://github.com/returnrqt/fishstrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/SRs5zb9BJd).
+Found any bugs? [Submit an issue](https://github.com/returnrqt/fishstrap/issues/new/choose).
 
 [![License][badge-repo-license]][repo-license]
 [![Workflow][badge-repo-workflow]][repo-actions]
@@ -25,9 +25,10 @@ Found any bugs? [Submit an issue](https://github.com/returnrqt/fishstrap/issues/
 
 ---
 
-## Key differences from Bloxstrap
+## Key differences from Fishstrap/Bloxstrap
 
 - Integrations
+  - Common cheat configuration
   - Player logs - Players leaving/joining server
   - Message logs
 - Fast Flags
@@ -43,7 +44,7 @@ Found any bugs? [Submit an issue](https://github.com/returnrqt/fishstrap/issues/
   - Customizable downloading status
 - Extras
   - Save last opened settings page
-  - Importing settings from Bloxstrap
+  - Importing settings from Bloxstrap/Fishstrap or other Bloxstrap forks
 
 ### *More changes coming soon!*
 
