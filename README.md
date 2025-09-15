@@ -1,16 +1,7 @@
 > [!CAUTION]
 > The only official places to download Erebos are this GitHub repository and [get-nyx.dev](https://get-nyx.com). Any other websites offering downloads or claiming to be us are not controlled by us. We strongly recommend **not** downloading from any unofficial sources.
 
-<p align="center">
-    <img src="null" width="420">
-    <img src="null" width="420">
-</p>
-
-<div align="center">
-
-![Erebos Showcase](null)
-
-Erebos is a Fishstrap/Bloxstrap fork aiming to enhance some of the features.
+Erebos is a Fishstrap/Bloxstrap fork aiming to improve performance and improve functionality for the 'exploiting' community.
 
 Found any bugs? [Submit an issue](https://github.com/wakefulblock262/erebos/issues/new/choose).
 
