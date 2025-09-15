@@ -1,7 +1,7 @@
 > [!CAUTION]
-> The only official places to download Erebos are this GitHub repository and [get-nyx.dev](https://get-nyx.com).
-> Any other websites offering downloads or claiming to be us are not controlled by us.
-> We strongly recommend **not** downloading from any unofficial sources.
+> - The only official places to download Erebos are this GitHub repository and [get-nyx.dev](https://get-nyx.com).
+> - Any other websites offering downloads or claiming to be us are not controlled by us.
+> - We strongly recommend **not** downloading from any unofficial sources.
 
 Erebos is a Fishstrap/Bloxstrap fork aiming to improve performance and functionality for the 'exploiting' community.
 
