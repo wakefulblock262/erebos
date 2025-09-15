@@ -16,11 +16,11 @@ namespace Bloxstrap
 #if QA_BUILD
         public const string ProjectName = "Fishstrap-QA";
 #else
-        public const string ProjectName = "Fishstrap";
+        public const string ProjectName = "Erebos";
 #endif
-        public const string ProjectOwner = "returnrqt";
-        public const string ProjectRepository = "returnrqt/fishstrap";
-        public const string ProjectDownloadLink = "https://github.com/returnrqt/fishstrap/releases";
+        public const string ProjectOwner = "wakefulblock262";
+        public const string ProjectRepository = "wakefulblock262/fishstrap";
+        public const string ProjectDownloadLink = "https://github.com/wakefulblock262/fishstrap/releaes";
         public const string ProjectHelpLink = "https://github.com/bloxstraplabs/bloxstrap/wiki";
         public const string ProjectSupportLink = "https://github.com/returnrqt/fishstrap/issues/new";
 

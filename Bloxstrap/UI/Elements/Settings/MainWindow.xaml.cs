@@ -119,5 +119,10 @@ namespace Bloxstrap.UI.Elements.Settings
             else
                 App.SoftTerminate();
         }
+
+        private void NavigationItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
