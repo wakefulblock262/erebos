@@ -45,7 +45,7 @@ Found any bugs? [Submit an issue](https://github.com/wakefulblock262/erebos/issu
 [badge-repo-latest]:     https://img.shields.io/github/v/release/wakefulblock262/erebos?style=flat-square
 [badge-repo-stars]:      https://img.shields.io/github/stars/wakefulblock262/erebos?style=flat-square&color=dd9900
 
-[badge-discord]: https://img.shields.io/discord/1299397064165429360?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=discord&color=4d3dff
+[badge-discord]: 
 
 [repo-license]:  https://github.com/wakefulblock262/erebos/blob/main/LICENSE
 [repo-actions]:  https://github.com/wakefulblock262/erebos/actions
