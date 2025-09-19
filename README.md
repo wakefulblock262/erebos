@@ -3,7 +3,7 @@
 > - Any other websites offering downloads or claiming to be us are not controlled by us.
 > - We strongly recommend **not** downloading from any unofficial sources.
 
-Erebos is a Fishstrap/Bloxstrap fork aiming to improve performance and functionality for the 'exploiting' community.
+Erebos is a Fishstrap/Bloxstrap fork aiming to improve performance and functionality.
 
 Found any bugs? [Submit an issue](https://github.com/wakefulblock262/erebos/issues/new/choose).
 
@@ -19,8 +19,6 @@ Found any bugs? [Submit an issue](https://github.com/wakefulblock262/erebos/issu
 
 ## Key differences from Fishstrap/Bloxstrap
 
-- Integrations
-  - Common 'exploit' configuration
 - Extras
   - Various features from Froststrap
   - Importing settings from Bloxstrap/Fishstrap or other Bloxstrap forks
